@@ -10,4 +10,4 @@ Use vdifonts or vidcontrol to set the font. Check the FreeBSD handbook if you wa
 Tested under FreeBSD 12.1
 
 - [This font is developed here](http://terminus-font.sourceforge.net)
-- [Screenshots are avaiable here](http://terminus-font.sourceforge.net/shots.html)
+- [Screenshots are available here](http://terminus-font.sourceforge.net/shots.html)
